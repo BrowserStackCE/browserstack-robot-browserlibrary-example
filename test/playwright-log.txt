@@ -1,0 +1,27 @@
+{"level":30,"time":"2022-10-11T12:59:56.297Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Listening on 53100"}
+{"level":30,"time":"2022-10-11T12:59:56.415Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Start of node method initializeExtension"}
+{"level":30,"time":"2022-10-11T12:59:56.431Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"End of node method initializeExtension"}
+{"level":30,"time":"2022-10-11T12:59:56.509Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-11T12:59:56.510Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-11T12:59:56.515Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-11T12:59:56.515Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-11T12:59:56.522Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Start of node method connectToBrowser"}
+{"level":30,"time":"2022-10-11T13:00:05.269Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"End of node method connectToBrowser"}
+{"level":30,"time":"2022-10-11T13:00:05.274Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-10-11T13:00:05.274Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-10-11T13:00:05.357Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Changed active context"}
+{"level":30,"time":"2022-10-11T13:00:07.200Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Video path: undefined"}
+{"level":30,"time":"2022-10-11T13:00:07.200Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Changed active page"}
+{"level":30,"time":"2022-10-11T13:00:07.549Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"End of node method newPage"}
+{"level":30,"time":"2022-10-11T13:00:07.555Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-10-11T13:00:10.065Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"End of node method goTo"}
+[[95mpercy[39m] Percy is not running, disabling snapshots
+{"level":30,"time":"2022-10-11T13:00:11.668Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-10-11T13:00:11.696Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Removed page=aabf3210-e3bd-4176-ae2e-edda62fc24b2 from context=ab299962-a454-4e59-aa5b-587adb00629c page stack"}
+{"level":30,"time":"2022-10-11T13:00:11.719Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-10-11T13:00:11.723Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-11T13:00:11.723Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-11T13:00:11.728Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-11T13:00:11.728Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-11T13:00:11.794Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-10-11T13:00:11.794Z","pid":11379,"hostname":"Khalids-MacBook-Pro.local","msg":"End of node method closeAllBrowsers"}
